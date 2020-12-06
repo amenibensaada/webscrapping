@@ -2,9 +2,9 @@ import scrapy
 
 
 class PostsSpider(scrapy.Spider):
-    name = 'posts2'
+    name = 'fullstack'
     start_urls = [
-        'https://www.optioncarriere.tn/emploi-stage-pfe.html'
+        'https://www.optioncarriere.tn/recherche/emplois?s=full+stack&l=Tunisie'
     ]
 
     def parse(self, response):
