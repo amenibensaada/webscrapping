@@ -2,7 +2,7 @@
 
 Earlier Python/Scrapy exercises for extracting article and job-listing data and exporting JSON. The Scrapy project is `postscrape`; spiders live under `postscrape/spiders`.
 
-[Current software engineering portfolio](https://amenibensaadaportfolio.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand).
+[Current software engineering portfolio](https://amenibensaada.tn/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand).
 
 ## Inspect the spiders
 
